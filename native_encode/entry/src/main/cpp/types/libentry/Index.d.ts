@@ -1,0 +1,1 @@
+export const encodeWithLeak: (a: string[]) => void;
